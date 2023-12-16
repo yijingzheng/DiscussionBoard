@@ -4,13 +4,14 @@
     justify-content: center;
     height:max-content;
     padding-top: 30vh;
-    gap: 8vh;
+    gap: 8vw;
 }
 
 .welcome-text {
-    font-size: 96px;
+    font-size: 8vw;
     font-weight: 900;
-    text-shadow: -8px -8px #1285b3;;
+    text-shadow: -0.5vw -0.5vw #1285b3;
+    text-align: end;
 }
 
 .spacing-small {
